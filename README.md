@@ -28,6 +28,3 @@ Watch the 6-minute recorded presentation that walks through the project journey,
 - Uddin, S., Ong, S., & Lu, H. (2022). Machine learning in project analytics: a data-driven framework and case study. Scientific reports, 12(1), 15252.
 
 - All Python libraries (pandas, scikit-learn, matplotlib, seaborn, mlxtend, statsmodels)
-
-**Thank you for reviewing my project!**  
-Feel free to reach out with any questions.
